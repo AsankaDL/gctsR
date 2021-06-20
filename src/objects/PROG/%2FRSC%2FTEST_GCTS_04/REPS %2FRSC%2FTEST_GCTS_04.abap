@@ -5,3 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT /RSC/TEST_GCTS_04.
 WRITE: 'gCTS testing 04_01'.
+WRITE: 'gCTS testing 04_02'.
