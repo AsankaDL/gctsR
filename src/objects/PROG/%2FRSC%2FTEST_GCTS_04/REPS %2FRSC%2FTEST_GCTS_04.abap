@@ -11,3 +11,5 @@ WRITE: 'gCTS testing 04_04'.
 WRITE: 'gCTS testing 04_05'.
 WRITE: 'gCTS testing 04_06'.
 WRITE: 'gCTS testing 04_07'.
+WRITE: 'gCTS testing 04_08'.
+WRITE: 'gCTS testing 04_09'.
