@@ -4,13 +4,9 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT /RSC/TEST_GCTS_04.
-WRITE: 'gCTS testing 04_01'.
-WRITE: 'gCTS testing 04_02'.
-WRITE: 'gCTS testing 04_03'.
-WRITE: 'gCTS testing 04_04'.
-WRITE: 'gCTS testing 04_05'.
-WRITE: 'gCTS testing 04_06'.
-WRITE: 'gCTS testing 04_07'.
-WRITE: 'gCTS testing 04_08'.
-WRITE: 'gCTS testing 04_09'.
-WRITE: 'gCTS testing 04_10'.
+
+WRITE: 'Object Push - 11'.
+WRITE: 'Object Push - 12'.
+WRITE: 'Object Push - 13'.
+WRITE: 'Object Push - 14'.
+WRITE: 'Object Push - 15'.
