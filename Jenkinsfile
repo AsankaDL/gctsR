@@ -4,7 +4,7 @@ gctsDeploy(
   client: '000',
   abapCredentialsId: 'ABAPUserPasswordCredentialsId',
   repository: 'gctsR',
-  remoteRepositoryURL: "https://remote.repository.url.com",
+  remoteRepositoryURL: "https://github.com/AsankaDL/gctsR.git",
   role: 'SOURCE',
   vSID: 'ABC',
   branch: 'feature1',
