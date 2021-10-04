@@ -7,4 +7,4 @@ REPORT /RSC/TEST_GCTS_04.
 
 WRITE: 'Object Push - NEW - 01'.
 WRITE: 'Object Push - NEW - 02'.
-WRITE: 'From git hub'.
+WRITE: 'Object Push - NEW - 03'.
