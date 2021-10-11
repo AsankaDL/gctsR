@@ -17,7 +17,7 @@ pipeline {
             }
         }
 		
-	stage('gctsDeploy-VH1') {
+	stage('gctsDeploy-VGT') {
             steps {
                 script {
                     try {
@@ -28,7 +28,7 @@ pipeline {
                             repository: 'gctsR',
                             //remoteRepositoryURL: "https://remote.repository.url.com",
                             //role: 'SOURCE',
-                            vSID: 'VH1',
+                            vSID: 'VGT',
                             //branch: 'branch',
                             //commit: 'commit',
                             //scope: 'scope',
@@ -37,7 +37,7 @@ pipeline {
                         )
                     }
                     catch(all) {
-                        echo "Error while Deploying SAP Objects in VH1."
+                        echo "Error while Deploying SAP Objects in VGT."
                         currentBuild.result = 'FALURE'
                     }
                 }
