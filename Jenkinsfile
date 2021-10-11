@@ -30,7 +30,7 @@ pipeline {
                             //role: 'SOURCE',
                             vSID: 'VGT',
                             //branch: 'branch',
-                            //commit: 'commit',
+                            commit: 'commit',
                             //scope: 'scope',
                             //rollback: false,
                             //configuration: [dummyConfig: 'dummyval']
