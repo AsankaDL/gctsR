@@ -22,8 +22,8 @@ pipeline {
                 script {
                     try {
                         gctsDeploy(
-                            host: 'HOST',
-                            client: 'CLIENT',
+                            host: 'http://despina.xrsc.local:8000',
+                            client: '400',
                             abapCredentialsId: 'ABAPUserPasswordCredentialsId',
                             repository: 'gctsR',
                             //remoteRepositoryURL: "https://remote.repository.url.com",
