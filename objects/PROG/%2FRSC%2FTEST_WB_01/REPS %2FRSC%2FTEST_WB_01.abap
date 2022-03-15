@@ -6,4 +6,6 @@
 REPORT /RSC/TEST_WB_01.
 write : 'test'.
 write : 'test2'.
-write : 'test3'.
+write : 'test4'.
+write : 'test24'.
+write : 'test14'.
