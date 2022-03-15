@@ -6,3 +6,4 @@
 REPORT /RSC/TEST_WB_03.
 WRITE: / 'test'.
 WRITE: 'TEST GP- 6'.
+WRITE: 'TEST GP- 7'.
